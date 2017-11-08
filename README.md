@@ -1,2 +1,2 @@
-# FSD-HangmanNodeJS
-Hangman using NodeJS
+# week11-hangman
+Hangman game using Node.js
