@@ -1,2 +1,2 @@
 # hangman
-Hangman game using Node.js
+A Hangman game using Node.js
